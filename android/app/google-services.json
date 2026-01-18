@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "539116682354",
+    "project_id": "mobile-learning-skripsi",
+    "storage_bucket": "mobile-learning-skripsi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539116682354:android:2390887d5f3717bd3696eb",
+        "android_client_info": {
+          "package_name": "com.example.mli_x"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATyXEAE80GYbMbWkzGzQ-X7_orvRJOP3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
